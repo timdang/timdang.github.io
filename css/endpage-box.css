@@ -16,6 +16,7 @@ Class Definitions
   -webkit-box-shadow: 0 2px 3px rgba(0,0,0,0.5);
   font-family: sans-serif;
   color: #FFFFFF;
+  size: 25px;
 }
 
 [class*="animation-"] {
