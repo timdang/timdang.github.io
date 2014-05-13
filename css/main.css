@@ -10,24 +10,24 @@
   display: inline;
 }
 
-.jumbotron {
+.bigboybanner {
   background-image:url('http://goo.gl/04j7Nn');
   height: 500px;
 }
 
-.jumbotron .container {
+.bigboybanner .container {
   position: relative;
   top:100px;
 }
 
-.jumbotron h1 {
+.bigboybanner h1 {
   color: #fff;
   font-size: 48px;  
   font-family: 'Shift', sans-serif;
   font-weight: bold;
 }
 
-.jumbotron p {
+.bigboybanner p {
   font-size: 20px;
   color: #fff;
 }
@@ -46,16 +46,16 @@
   color: #00b0ff;
 }
 
-.neighborhood-guide {
+.events {
     background-color: #efefef;
     border-bottom: 1px solid #dbdbdb;
 }
-.neighborhood-guide h2 {
+.events h2 {
     color: #393c3d;
     font-size: 24px;
 }
 
-.neighborhood-guide p {
+.events p {
     font-size: 15px;
     margin-bottom: 13px;
 }
