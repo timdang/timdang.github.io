@@ -22,14 +22,14 @@
 
 .bigboybanner h1 {
   color: #fff;
-  font-size: 48px;  
+  font-size: 64px;  
   font-family: 'Shift', sans-serif;
   font-weight: bold;
   text-shadow: 4px 4px 8px black
 }
 
 .bigboybanner p {
-  font-size: 20px;
+  font-size: 32px;
   color: #fff;
   text-shadow: 2px 2px 4px black
 }
