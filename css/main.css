@@ -25,13 +25,13 @@
   font-size: 64px;  
   font-family: 'Shift', sans-serif;
   font-weight: bold;
-  text-shadow: 4px 4px 8px black
+  text-shadow: 4px 4px 2px black
 }
 
 .bigboybanner p {
   font-size: 32px;
   color: #fff;
-  text-shadow: 2px 2px 4px black
+  text-shadow: 2px 2px 1px black
 }
 
 .learn-more {
