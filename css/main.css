@@ -1,3 +1,7 @@
+.navbar-brand {
+  font-family: 'Fredericka the Great', cursive;
+}
+
 .bigboybanner {
   background-image:url('../img/IMG_0195.JPG');
   background-position: 35% 0%;
