@@ -2,6 +2,7 @@
   font-family: 'Fredericka the Great', cursive;
 }
 
+
 .bigboybanner {
   background-image:url('../img/IMG_0195.JPG');
   background-position: 35% 0%;
@@ -27,11 +28,32 @@
   text-shadow: 2px 2px 1px black
 }
 
+
 .slimmanbanner {
   background-image:url('../img/IMG_0195.JPG');
   background-position: 35% 50%;
   height: 200px;
 }
+
+.slimmanbanner .container {
+  position: relative;
+  top:100px;
+}
+
+.slimmanbanner h1 {
+  color: #fff;
+  font-size: 32px;  
+  font-family: 'Fredericka the Great', cursive;
+  text-shadow: 4px 4px 2px black
+}
+
+.slimmanbanner p {
+  font-size: 24px;
+  color: #fff;
+  font-family: 'Architects Daughter', cursive;
+  text-shadow: 2px 2px 1px black
+}
+
 
 .learn-more {
   background-color: #f7f7f7;
@@ -45,6 +67,7 @@
 .learn-more a {
   color: #00b0ff;
 }
+
 
 .events {
     background-color: #eeeeee;
