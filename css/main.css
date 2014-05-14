@@ -27,6 +27,12 @@
   text-shadow: 2px 2px 1px black
 }
 
+.slimmanbanner {
+  background-image:url('../img/IMG_0195.JPG');
+  background-position: 35% 50%;
+  height: 200px;
+}
+
 .learn-more {
   background-color: #f7f7f7;
 }
