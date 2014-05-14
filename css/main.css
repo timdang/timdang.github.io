@@ -31,12 +31,13 @@
 
 .slimmanbanner {
   background-image:url('../img/IMG_0195.JPG');
-  background-position: 35% 50%;
+  background-position: 35% 60%;
   height: 200px;
 }
 
 .slimmanbanner .container {
   position: relative;
+  top:30px;
 }
 
 .slimmanbanner h1 {
