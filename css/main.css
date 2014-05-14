@@ -24,7 +24,7 @@
 .bigboybanner h1 {
   color: #fff;
   font-size: 64px;  
-  font-family: 'Shift', sans-serif;
+  font-family: 'Alfa Slab One', cursive;
   font-weight: bold;
   text-shadow: 4px 4px 2px black
 }
@@ -32,7 +32,7 @@
 .bigboybanner p {
   font-size: 32px;
   color: #fff;
-  font-family: 'Shift', sans-serif;
+  font-family: 'Covered By Your Grace', cursive;
   font-weight: bold;
   text-shadow: 2px 2px 1px black
 }
@@ -42,7 +42,7 @@
 }
 
 .learn-more h3 {
-  font-family: sans-serif;
+  font-family: 'Covered By Your Grace', cursive;
   font-size: 18px;
   font-weight: bold;
 }
