@@ -83,6 +83,10 @@
 .events p {
     font-size: 15px;
     margin-bottom: 13px;
+}
+
+.events thumbnail {
+    font-size: 18px;
     font-family: 'Architects Daughter', cursive;
     text-align: center;
 }
